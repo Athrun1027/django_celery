@@ -1,1 +1,1 @@
-## Dajngo Celery Rediss
+## Django Celery Redis
